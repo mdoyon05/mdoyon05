@@ -33,6 +33,25 @@ My goal is to combine electronics, automation, and emerging technologies to crea
 
 ---
 
+---
+
+## 🎓 Education
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Institution-Rajshahi%20Government%20Polytechnic%20Institute-1976D2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Department-Electronics%20Technology-1565C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Degree-Diploma%20in%20Engineering-0288D1?style=for-the-badge" />
+</p>
+
+- 🏫 **Institute:** Rajshahi Government Polytechnic Institute
+- 🎓 **Program:** Diploma in Engineering
+- ⚡ **Department:** Electronics Technology
+- 📍 **Location:** Rajshahi, Bangladesh
+
+I'm currently pursuing a Diploma in Electronics Engineering, developing my knowledge and practical skills in electronics, electrical systems, PLC programming, and industrial automation.
+
+---
+
 ## 🛠️ Technical Skills
 
 ### ⚡ Electronics & Electrical
