@@ -119,18 +119,7 @@ My GitHub is where I showcase my technical learning, experiments, and projects.
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mdoyon05&show_icons=true&theme=default&hide_border=true&title_color=1976D2&icon_color=1976D2" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdoyon05&layout=compact&theme=default&hide_border=true&title_color=1976D2" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdoyon05&theme=default&hide_border=true&ring=1976D2&fire=1976D2&currStreakLabel=1976D2" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
